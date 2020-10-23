@@ -1,0 +1,20 @@
+{
+  "name": "vue3ub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "http-serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vue/compiler-sfc": "^3.0.2",
+    "es-module-shims": "^0.7.0",
+    "vue": "^3.0.2"
+  },
+  "devDependencies": {
+    "http-serve": "^1.0.1"
+  }
+}
